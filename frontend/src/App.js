@@ -48,7 +48,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Frontend</h1>
+      <h1>Enter Detail...</h1>
 
       <textarea
         rows="5"

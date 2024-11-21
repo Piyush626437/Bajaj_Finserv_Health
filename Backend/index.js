@@ -33,11 +33,11 @@ const decodeBase64 = (base64) => {
 };
 
 // Replace with your details
-const fullName = "PiyushThakur";
-const dob = "23032004";
+const fullName = "MO_SAIFULLAH";
+const dob = "03012004";
 const userId = `${fullName}_${dob}`;
-const email = "piyushthakur210092@gmail.com";
-const rollNumber = "0827CI211133";
+const email = "saifullah210058@acropolis.in";
+const rollNumber = "0827CI211112";
 
 app.post('/bfhl', (req, res) => {
     const { data, file_b64 } = req.body;
